@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/schatten-der-haimat/","tags":["#хаб","gardenEntry"]}
+{"dg-publish":true,"permalink":"/schatten-der-haimat/","tags":["#хаб","gardenEntry","gardenEntry"]}
 ---
 
 ![Header.png](/img/user/09.%20files/Header.png)
@@ -31,7 +31,7 @@
 - [[02. published/Язык и жаргон\|Язык и жаргон]]
 # [[01. hubs/Фракции\|Фракции]]
 - [[07. drafts/Пакт Единства\|Пакт Единства]]
-- [[07. drafts/Mond und Töchter\|Mond und Töchter]]
+- [[02. published/Mond und Töchter\|Mond und Töchter]]
 	- [[02. published/Серебряное крыло\|Серебряное крыло]]
 	- [[02. published/Черное крыло\|Черное крыло]]
 	- [[Белое крыло\|Белое крыло]]
