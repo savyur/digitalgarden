@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-home/schatten-der-haimat/","tags":["#хаб","gardenEntry"]}
+{"dg-publish":true,"permalink":"/00-home/schatten-der-haimat/","tags":["#хаб","gardenEntry","gardenEntry"]}
 ---
 
 ![Header.png](/img/user/09.%20files/Header.png)
