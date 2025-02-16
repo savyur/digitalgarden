@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-home/schatten-der-haimat/","tags":["#хаб","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/00-home/schatten-der-haimat/","tags":["#хаб","gardenEntry"]}
 ---
 
 ![Header.png](/img/user/09.%20files/Header.png)
@@ -24,6 +24,7 @@
 # Мир
 - [[02. published/Биорезонанс\|Биорезонанс]]
 - [[02. published/Гештальт-технология\|Гештальт-технология]]
+- [[02. published/Психограмма\|Психограмма]]
 - [[02. published/Реплика\|Реплика]]
 - [[02. published/Сплетение\|Сплетение]]
 - [[02. published/Кибер\|Кибер]]
